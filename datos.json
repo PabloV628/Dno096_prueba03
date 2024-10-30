@@ -54,10 +54,10 @@
         "github": "https://github.com/pablov628"
     },
     {
-        "nombre": "El increible castillo vagabundo",
+        "nombre": "El castillo ambulante",
         "descripcion": "Una joven sin confianza en sí misma es maldita con un cuerpo envejecido por una bruja odiosa. Su única oportunidad de romper el hechizo es un joven brujo en un castillo ambulante.",
-        "fecha": "2001",
-        "signo": "fantasia",
+        "fecha": "2004",
+        "signo": "romance",
         "foto": "https://github.com/user-attachments/assets/79b6ff75-e94e-49d2-bc84-a294c1cb9824",
         "fotos":["castillo-1.jpg","castillo-2.jpg","castillo-3.jpg"],
         "github": "https://github.com/pablov628"
@@ -100,7 +100,7 @@
     },    
 
     {
-        "nombre": "La cabaña del terror",
+        "nombre": "La cabaña",
         "descripcion": "Cinco amigos se van de escapada a una remota cabaña en el bosque donde descubren más de lo que hubiesen querido.",
         "fecha": "2011",
         "signo": "terror",
